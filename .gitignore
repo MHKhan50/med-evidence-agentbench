@@ -7,3 +7,5 @@ reports/*.json
 data/cache/*
 !data/cache/.gitkeep
 *.egg-info/
+
+.venv311/
