@@ -57,3 +57,24 @@ No patient data is collected. Live evidence is retrieved from public drug-label 
 
 ## Suggested paper title
 *Evidence-Grounded Agentic NLP for Medication-Label Claim Verification: A Reproducible Tool-Use Benchmark*
+
+## How to cite
+
+```bibtex
+@software{hussain2026medevidence,
+  author = {Hussain, Muzammal},
+  title  = {{MedEvidence-AgentBench: checking medication-safety claims against official drug labels}},
+  year   = {2026},
+  url    = {https://github.com/MHKhan50/med-evidence-agentbench}
+}
+```
+
+## Author
+
+Muzammal Hussain, independent researcher, Glasgow, United Kingdom.
+ORCID: [0009-0001-2570-5686](https://orcid.org/0009-0001-2570-5686)
+
+## Licence
+
+MIT. See `LICENSE`.
+
